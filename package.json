@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "14.16.0" 
+  },
   "name": "y",
   "version": "1.0.0",
   "description": "",
@@ -8,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "type": "module", 
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
@@ -16,4 +19,5 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.7"
   }
+
 }
